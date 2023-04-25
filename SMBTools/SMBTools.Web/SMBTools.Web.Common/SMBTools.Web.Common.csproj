@@ -10,4 +10,8 @@
     <Folder Include="Enums\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="CycloneDX.Core" Version="5.4.0" />
+  </ItemGroup>
+
 </Project>
