@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" serialNumber="urn:uuid:85c4d613-d356-4953-95fc-e68833e8129a" version="1" xmlns="http://cyclonedx.org/schema/bom/1.4">
+  <metadata>
+    <tools>
+      <tool>
+        <vendor>CycloneDX</vendor>
+        <name>CycloneDX module for .NET</name>
+        <version>2.7.0.0</version>
+      </tool>
+    </tools>
+    <component type="application" bom-ref="D:\Projects@0.0.0">
+      <name>D:\Projects</name>
+      <version>0.0.0</version>
+    </component>
+  </metadata>
+  <components />
+  <dependencies>
+    <dependency ref="D:\Projects@0.0.0" />
+  </dependencies>
+</bom>
